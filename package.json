@@ -1,0 +1,27 @@
+{
+  "name": "eshopSimplon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiansinj/eshopSimplon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christiansinj/eshopSimplon/issues"
+  },
+  "homepage": "https://github.com/Christiansinj/eshopSimplon#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "cli": "^1.0.1",
+    "express": "^4.16.2"
+  }
+}
